@@ -3,7 +3,7 @@ Spring Data REST + REST Repositories + Spring Data JPA + H2 database + Lombok
 
 Spring Data REST is part of Spring Data project and makes it easy to build REST web services. 
 
-Spring Data REST analyzes your application’s domain model, and expose it as REST endpoint.
+Spring Data REST analyzes your application’s domain model and expose it as REST endpoint.
 
 
 ## Run
