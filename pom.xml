@@ -11,7 +11,7 @@
 	<groupId>torre.alessandro</groupId>
 	<artifactId>spring-data-rest-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-data-rest-tutorial</name>
+	<name>spring-data-rest-example</name>
 	<description>Example project for Spring Boot and Spring Data REST</description>
 	<properties>
 		<java.version>8</java.version>
