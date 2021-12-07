@@ -8,7 +8,7 @@ Spring Data REST analyzes your application’s domain model and expose it as REST 
 
 ## Run
 mvn clean spring-boot:run
-http://localhost:8080/
+
 
 ## GET All Users:
 HTTP Method: GET
