@@ -22,7 +22,7 @@ public class SpringDataRestApplication implements CommandLineRunner {
 
 		User user = User.builder()
 				.firstName("Sandro")
-				.lastName("Torre")
+				.lastName("Trimboli")
 				.email("torre@gmail.com")
 				.build();
 
