@@ -21,8 +21,8 @@ public class SpringDataRestApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		User user = User.builder()
-				.firstName("Pippo")
-				.lastName("Tancredi")
+				.firstName("Edoardo")
+				.lastName("Bianchi")
 				.email("torre@gmail.com")
 				.build();
 
