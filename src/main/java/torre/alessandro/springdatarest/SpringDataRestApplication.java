@@ -29,8 +29,8 @@ public class SpringDataRestApplication implements CommandLineRunner {
 		userRepository.save(user);
 
 		User user1 = User.builder()
-				.firstName("Mario")
-				.lastName("Rossi")
+				.firstName("Antonio")
+				.lastName("Coppola")
 				.email("rossi@gmail.com")
 				.build();
 
